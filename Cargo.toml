@@ -1,0 +1,12 @@
+[package]
+name = "untitled"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.4"
+auto-launch = "0.5.0"
+winreg = "0.51.0"
+system_shutdown = "4.0.1"
